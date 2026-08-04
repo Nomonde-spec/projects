@@ -1,0 +1,25 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d docs",
+    "predeploy": "echo no-op"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nomonde-spec/nomonde-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nomonde-spec/nomonde-portfolio/issues"
+  },
+  "homepage": "https://nomonde-spec.github.io/nomonde-portfolio",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
