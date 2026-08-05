@@ -112,7 +112,8 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #5e72e4 0%, #825ee4 50%, #a55ee4 100%);
+    /* Changed landing page color to blue gradient */
+    background: linear-gradient(135deg, #1e90ff 0%, #0077cc 50%, #005fa3 100%);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
